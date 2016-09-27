@@ -1,3 +1,3 @@
 # Vladimir
 
-This package does not make any sens.
+This package does not make any sense.
